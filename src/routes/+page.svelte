@@ -11,6 +11,7 @@
     import IntersectionObserver from "svelte-intersection-observer";
     import Navbar from "./template/nav.svelte";
     import MediaQuery from "./MediaQuery.svelte";
+    import Footer from "./template/footer.svelte"
 
     onMount(() => {
         setTimeout(() => {
