@@ -60,6 +60,14 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Pavithran Chelliahpillai">
     <meta name="twitter:description" content="Pavithran's personal website and online portfolio.">
+    <script type="application/ld+json">
+        {
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Pavithran Chelliahpillai",
+          "url" : "https://pchelliahpillai.com/"
+        }
+    </script>
 </svelte:head>
 
 <body>
