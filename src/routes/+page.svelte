@@ -49,7 +49,7 @@
 
 <svelte:head>
     <title>Pavithran Chelliahpillai</title>
-    <meta name="description" content="Personal website of Pavithran Chelliahpillai: software engineering at UWaterloo, previously at Principle Air Systems.">
+    <meta name="description" content="Personal website of Pavithran Chelliahpillai: software engineering at UWaterloo, previously at HTS Engineering.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link rel="canonical" href="https://pchelliahpillai.com">
