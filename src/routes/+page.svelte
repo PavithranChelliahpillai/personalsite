@@ -364,7 +364,7 @@
                         Software Engineering at UWaterloo
                     </p>
                     <p id="bingbong" style="padding: 0; margin: 0; ">
-                        Prev. at Principle Air Systems
+                        Prev. at HTS Engineering
                     </p>
                 </div>
             </div>
